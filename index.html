@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to Space Quiz !</h1>
+    <div id="quiz-container">
+        <div id="question-container">
+            <div id="question">Loading...</div>
+            <ul id="options"></ul>
+        </div>
+        <div id="feedback"></div>
+        <div id="timer">Time: <span id="time">15</span> seconds</div>
+        <button id="next-btn" disabled>Next Question</button>
+    </div>
+    <div id="score-container" style="display:none;">
+        <p id="score-message"></p>
+        <button onclick="restartQuiz()">Restart Quiz</button>
+    </div>
+    <script src="activity7.js"></script>
+</body>
+</html>

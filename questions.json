@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Which planet is the furthest from Neptune?",
+        "options": ["Saturn", "Mars", "Mercury", "Uranus"],
+        "correct": 2
+    },
+    {
+        "question": "Which planet in our solar system does not have a moon?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "correct": 1
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "options": ["Voyager 1", "Hubble", "Apollo 11", "Sputnik 1"],
+        "correct": 3
+    },
+    {
+        "question": "Which planet has a day longer than its year?",
+        "options": ["Venus", "Mercury", "Mars", "Neptune"],
+        "correct": 0
+    },
+    {
+        "question": "What phenomenon causes the Northern and Southern Lights?",
+        "options": ["Aurora Borealis", "Solar Flares", "Meteor Showers", "Cosmic Rays"],
+        "correct": 0
+    }
+]
